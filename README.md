@@ -103,6 +103,5 @@
 100. 
 <!--RECENT_ACTIVITY:end-->
 
+## Last Updated
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 13th October, 2022 @ 03:29am UTC
-<!--RECENT_ACTIVITY:last_update_end-->
